@@ -1,0 +1,4 @@
+This folder contains the financial analysis done by group number 5, for the course "Accounting, Finance & Control" at Politecnico di Milano.
+The Financial analysis is done on the financial reports of Adidas, specifically we analyzed their strategy and all the financial disclosures: balance sheet, income statement and cash flow statement. 
+We used all the most important financial metrics, such as: ROE, ROI, Financial leverage, DSO/DPO, Net profit margin, Quick ration, Capex coverage ratio, inventory turnover ration.
+We performed also segmental analysis, competitor analysis, risk analysis and provided an outlook

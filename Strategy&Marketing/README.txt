@@ -1,0 +1,3 @@
+We analysed the current situation of Chateau d'AX using: Abell's matrix, Pestel's analysis and Porter's 5 forces model, Resources and Competences based view and SWOT analysis.
+Then we defined a new marketing strategy by explaining what it will be based on, what the sources of competitive advantage will be, showing the segmentation and positioning in the market and going into detail explaining: product, price, location, promotion.
+Finally, we highlighted the added value through the Value Proposition Canvas, and then summarised everything in the Business Model Canvas.
